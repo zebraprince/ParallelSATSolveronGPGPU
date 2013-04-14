@@ -1,0 +1,4 @@
+app:  /home/kimura-lab/bin/linux/release
+
+./main ./input/InputFileName
+for example: ./main ./input/001

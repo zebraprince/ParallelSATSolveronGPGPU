@@ -1,0 +1,8 @@
+app:  /home/kimura-lab/bin/linux/release
+
+./main ./input/InputFileName
+for example: ./main ./input/001
+
+The additional guiding search methods are commented. In order to use this procedure, uncomment them and recompile.
+
+Parameter to control the solver--Trapped and RestartTimes can be set in struct_def.h. Modify them and recompile.
